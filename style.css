@@ -25,6 +25,7 @@ p{
 }
 
 .dice{
+  padding-top:3%;
   text-align: center;
   display: inline-block;
 }
