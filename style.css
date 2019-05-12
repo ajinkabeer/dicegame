@@ -1,0 +1,40 @@
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+
+body{
+  background-color: #607d8b;
+}
+
+h1{
+  text-align: center;
+  font-size: 60px;
+  padding-top:3%;
+  font-family: 'Lobster',sans-serif;
+  color: #fff;
+}
+
+p{
+  font-size: 2rem;
+  font-family: 'Anton',sans-serif;
+  color: #fff;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+img{
+  width: 50%;
+}
+
+ .footer{
+   padding-top: 10%;
+   font-family: 'lobster';
+   font-size: 10px;
+   text-align: center;
+ }
